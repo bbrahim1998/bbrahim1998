@@ -1,23 +1,8 @@
-# Profile Introduction
+# GitHub Stats
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=ibra1998)
+![Followers](https://img.shields.io/github/followers/ibra1998?label=Followers&style=social)
+![Public Repos](https://img.shields.io/github/repos/ibra1998)
 
-[Your introduction here. Describe yourself, your background, and your interests.]
-
-## Skills
-
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-
-## Featured Projects
-
-- [Project 1]
-- [Project 2]
-- [Project 3]
-
-## Get in Touch
-
-- [Email]
-- [LinkedIn]
-- [GitHub]
+# My Other Profiles
+[My GitHub Profile](https://github.com/ibra1998)
